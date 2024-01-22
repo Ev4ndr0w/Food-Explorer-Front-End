@@ -30,7 +30,26 @@ A página inicial em formato desktop é vista na imagem abaixo:
 
 ![foodexplorer vercel app_ (1)](https://user-images.githubusercontent.com/106932234/204163350-1d4c8a96-f68a-4eb0-aa8e-5343e2681749.png)
 
-___
+
+<br>
+ Rocket link: 
+<br>
+https://app.rocketseat.com.br/explorer/final-challenge
+
+<br>
+<br>
+ Figma Link: 
+<br>
+https://www.figma.com/community/file/1196874589259687769
+
+<br>
+<br>
+ Guide: 
+<br>
+https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7cb5486e9e3fa600da5b3390
+
+<br>
+<br>
 
 ## Apprenticeship
 
