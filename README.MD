@@ -87,7 +87,7 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 - Enter the directory:
 
 ```bash 
-  $ cd + sua pasta + git clone https://github.com/Ev4ndr0w/Food-Explorer-Front-End-.git
+  $ cd + sua pasta + git clone https://github.com/Ev4ndr0w/Food-Explorer-Front-End
 ```
 
 - Install dependencies:
