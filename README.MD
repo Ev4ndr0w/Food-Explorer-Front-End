@@ -1,14 +1,20 @@
+<h1 align="center"> Project - Food Explorer 🍽</h1>
+
 <p align="center">
-  <h1 align="center"><a href="https://food3xplorer.netlify.app/">Food Explorer - Rocketseat Explorer :rocket: </a></h1>
+Time to put into practice what was taught during all the stages!!
+
+<p align="center">
+  <a href="#-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">license</a>
 </p>
 
 <p align="center">
-  <img width="550" height="99" src="https://user-images.githubusercontent.com/106932234/204160165-1936c0db-539f-4a11-bf5e-1f3d3f789896.png">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
 </p>
 
-Este é o resultado do desafio final do Explorer, o Food Explorer.
 <br>
-Nele realizei a criação do FrontEnd e do BackEnd completo da aplicação.
 
 ___
 
