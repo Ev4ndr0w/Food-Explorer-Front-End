@@ -29,7 +29,7 @@ It was produced with the following
 The Food Explorer is a restaurant web application. After registering, the user will be able to create orders and track their status. There is also a profile customization, favorite filtering, search field, and contact section with the restaurant. The cart is 100% functional and the user can choose between 2 payment methods (Credit Card or Pix)
 The administrator can create/edit/remove dishes as they wish. They can also change the status of the orders, according to their preparation line in the kitchen. This status will be immediately updated on the consumers' screen.
 ## 🔖 Project Layout
-![PRO2-1](./public/Homepage.png)
+
 <br>
 <br>
 
@@ -106,9 +106,9 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 - If everything goes well, you will receive a message similar to this:
 
 ```bash
- VITE v4.2.1  ready in 686 ms
+ VITE v4.2.1  ready in 523 ms
 
-  ➜  Local:   http://localhost:5173/
+  ➜  Local:   http://localhost:3371/
   ➜  Network: use --host to expose
   ➜  press h to show help
 ```
@@ -119,8 +119,8 @@ https://efficient-sloth-d85.notion.site/Guia-de-resolu-o-Desafio-final-b38a81fe7
 ## Test in Website
 - Want to see how the application works from the administrator's or user's perspective?
 - Use the following accounts:
-- As an administrator: email: admin@admin.com password: admin123
-- As a user, you can access with these credentials or create your own: email: user@user.com password: user123
+- As an administrator: email: admin@admin.com password: Admin1234
+- As a user, you can access with these credentials or create your own: email: user@user.com password: User1234
 
 
 ## Website
