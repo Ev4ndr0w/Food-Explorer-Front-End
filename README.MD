@@ -16,16 +16,14 @@ Time to put into practice what was taught during all the stages!!
 
 <br>
 
-___
 
-## 💻 Sobre
+## 💻 About
 O Food Explorer é uma aplicação web de um restaurante. Após se cadastrar na plataforma o usuário estará apto a criar os pedidos e acompanhar o status dele. Há ainda uma customização de perfil, filtragem de favoritos, campo de busca e seção de contato com o restaurante. O carrinho é 100% funcional e o usuário pode escolher entre 2 formas de pagamento (cartão ou Pix). O Administrador terá a capacidade de criar/editar/remover os pratos da forma que desejar. Ele poderá ainda alterar o status dos pedidos, de acordo com a linha de preparo dos mesmos na cozinha. Este status será imediatamente atualizado na tela dos consumidores. O projeto conta com diversos "extras" que adicionei, como a possibilidade de mudança de tema da página, customização do perfil do usuário(avatar, nome e senha), conta ainda com diversos efeitos visuais e o mais importante de tudo: É responsivo para a utilização em diversos tipos de dispositivos!
 
-Este repositório contém os dados do Frontend da minha aplicação em React.js e do BackEnd em Node.js.
 
-___
 
-## 🎨 Layout
+
+## Layout
 A página inicial em formato desktop é vista na imagem abaixo:
 
 ![foodexplorer vercel app_](https://user-images.githubusercontent.com/106932234/204163348-5f06ae24-3ede-4bae-b68a-770493d1a286.png)
@@ -34,9 +32,7 @@ A página inicial em formato desktop é vista na imagem abaixo:
 
 ___
 
-## 🛠 Tecnologias
-
-As seguintes tecnologias foram empregadas na criação deste projeto:
+## Apprenticeship
 
 - [ReactJs](https://reactjs.org)
 - [Node.js](https://nodejs.org/en/)
@@ -48,74 +44,65 @@ As seguintes tecnologias foram empregadas na criação deste projeto:
 - [Knex](https://knexjs.org/)
 - [BCryptjs](https://www.npmjs.com/package/bcryptjs)
 - [JSON Web Token](https://www.npmjs.com/package/jsonwebtoken)
-- [Multer](https://www.npmjs.com/package/multer)
-- [CORS](https://www.npmjs.com/package/cors)
 - [Axios](https://www.npmjs.com/package/axios)
 - [Styled Components](https://styled-components.com/)
 - [React Icons](https://react-icons.github.io/react-icons/)
-- [Swiper](https://swiperjs.com/)
 - [React Router Dom](https://react-icons.github.io/react-icons/)
 
-___
-
-## 🚀 Como utilizar
-
-Clone o projeto para o local desejado em seu computador.
-
-```bash
-$ git clone git@github.com:andreviapiana/Food-Explorer.git
-```
-___
-
-#### 🚧 Executando o BackEnd
-```bash
-# No BackEnd insira uma porta e um secret no arquivo .env vazio
-  AUTH_SECRET=
-  PORT=
-
-# Navegue até o diretório do BackEnd
-$ cd food-explorer-backend
-
-# Instale as dependências necessárias
-$ npm install
-
-# Agora inicie o servidor do BackEnd
-$ npm run dev
-```
-___
-
-#### 💻 Executando o FrontEnd
-```bash
-# Navegue até o diretório do FrontEnd
-$ cd food-explorer-frontend
-
-# Instale as dependências necessárias
-$ npm install
-
-# Agora inicie o servidor do FrontEnd
-$ npm run dev
-
-# O terminal irá exibir o endereço local onde a aplicação está sendo executada. Basta digitar o mesmo endereço em seu navegador preferido. O endereço usado na criação do projeto foi este:
-
-  http://localhost:5173/
-```
-
-#### 🔑 Quer ver como a aplicação funciona vista pelo Admin? Use a conta a seguir:
-
-```bash
-  e-mail: admin@foodexplorer.com
-  senha: 123456
-```
-___
-
-Este BackEnd foi hospedado diretamente no Render.
-Já o Frontend foi hospedado diretamente no Netlify.
-
-___
-Obs.: Por estar hospedado em um serviço gratuito, o BackEnd "hiberna" após 15 minutos sem utilização.
 <br>
-Se você está tentando acessar o site e o BackEnd não responde, apenas aguarde, pois ele estará "inicializando" os serviços.
 <br>
-Esta etapa poderá demorar até 1 minuto, dependendo da carga nos servidores do Render.
 
-[O resultado FINAL pode ser visto aqui](https://food3xplorer.netlify.app/)
+
+## 🚀 How to use!
+
+!!RECOMMENDED!!
+
+- Local Test
+
+- Start by cloning the project:
+
+```bash
+  $ https://github.com/Ev4ndr0w/Food-Explorer-Front-End-.git
+```
+
+- Enter the directory:
+
+```bash 
+  $ cd + sua pasta + git clone https://github.com/Ev4ndr0w/Food-Explorer-Front-End-.git
+```
+
+- Install dependencies:
+
+```bash
+  $ npm install
+```
+
+- Start a local server:
+
+```bash
+  $ npm run dev
+```
+
+- If everything goes well, you will receive a message similar to this:
+
+```bash
+ VITE v4.2.1  ready in 562 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: use --host to expose
+  ➜  press h to show help
+```
+
+- Now open your browser at the address entered in "`Local`" to test the application.
+
+
+## Test in Website
+- Want to see how the application works from the administrator's or user's perspective?
+- Use the following accounts:
+- As an administrator: email: admin@admin.com password: admin123
+- As a user, you can access with these credentials or create your own: email: user@user.com password: user123
+
+
+## Website
+ - https://foodexplorer777.netlify.app
+---
