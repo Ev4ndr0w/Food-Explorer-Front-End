@@ -29,7 +29,7 @@ It was produced with the following
 The Food Explorer is a restaurant web application. After registering, the user will be able to create orders and track their status. There is also a profile customization, favorite filtering, search field, and contact section with the restaurant. The cart is 100% functional and the user can choose between 2 payment methods (Credit Card or Pix)
 The administrator can create/edit/remove dishes as they wish. They can also change the status of the orders, according to their preparation line in the kitchen. This status will be immediately updated on the consumers' screen.
 ## 🔖 Project Layout
-<img className="Image12" style={{width: 1655, height: 792, borderTopLeftRadius: 24, borderTopRightRadius: 24}} src="https://via.placeholder.com/1655x792" />
+<img className="Image12" style={{width: 1655, height: 792, borderTopLeftRadius: 24, borderTopRightRadius: 24}}/>
 <br>
 <br>
 
